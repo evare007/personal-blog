@@ -1,0 +1,25 @@
+{
+  "name": "eddy-personal-blog",
+  "version": "1.0.0",
+  "description": "A personal blog to share ideas, stories and projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evare007/personal-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "education",
+    "projects",
+    "development"
+  ],
+  "author": "Eddy D. Varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evare007/personal-blog/issues"
+  },
+  "homepage": "https://github.com/evare007/personal-blog#readme"
+}
